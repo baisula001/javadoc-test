@@ -1,3 +1,6 @@
+/**
+ * module part para;
+ */
 module org.example.baisula.demo {
     requires javafx.controls;
     requires javafx.fxml;
