@@ -13,6 +13,7 @@ public class HelloController {
     private Label welcomeText;
 
     /**
+     *
      * click event
      */
     @FXML
