@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"org.example.baisula.demo"}];updateSearchResults();
