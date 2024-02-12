@@ -9,9 +9,8 @@ import java.io.IOException;
 
 /**
  * module part
- *22
+ * 22
  */
-
 public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
@@ -25,8 +24,7 @@ public class HelloApplication extends Application {
     /**
      * first try
      *
-     * @param args
-     * args .....
+     * @param args args .....
      */
     public static void main(String[] args) {
         launch();
