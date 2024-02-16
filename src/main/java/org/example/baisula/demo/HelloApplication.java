@@ -25,6 +25,7 @@ public class HelloApplication extends Application {
      * first try
      *
      * @param args args .....
+     *
      */
     public static void main(String[] args) {
         launch();
